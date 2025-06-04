@@ -27,3 +27,5 @@ The main() function prompts the user to input an arithmetic expression. It reads
 In conclusion, the program supports basic arithmetic operations: addition, subtraction, multiplication, division, floating-point numbers, and parentheses for grouping. Whitespace is ignored, making it tolerant to various input styles. This program is a clear demonstration of recursive descent parsing and provides a practical example of building a calculator-like parser in C++.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/3167f120-5d11-478b-897c-6abb35d064d4)
